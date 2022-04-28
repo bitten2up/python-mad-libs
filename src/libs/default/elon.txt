@@ -1,0 +1,3 @@
+$name (born $date) is a $jobtitle. $pronoun was born in $bornin. $pronoun moved to $country and later became an $anouthercountry citizen. $name is the current CEO & Chief Product Architect of $company1, a company that makes electric vehicles. $pronoun is also the CEO of $company2, a company that makes solar panels, and the CEO & CTO of $company3, an aerospace company. In $year, $pronoun became the owner of the social media site $company4 after buying it for $amountofmoney.
+
+In August $year, $propernoun ranked $name third among the richest people on the planet with a net worth to be $money. With a net worth of around $money as of $date, $name is the wealthiest person in the world. In 2021, $pronoun was $propernoun Person of the Year.
